@@ -1,6 +1,6 @@
 name       : bottom
 version    : 0.9.4
-release    : 19
+release    : 20
 source     :
     - https://github.com/ClementTsang/bottom/archive/refs/tags/0.9.4.tar.gz : 199123ef354bcabaa8a2e3b7b477b324f5b647d503a2599d08296733846eea6e
     - https://github.com/ClementTsang/bottom/releases/download/0.9.4/completion.tar.gz : 35609edff38056a7dd04a6783a0e3d05360e8c907bc586336a372e04ad1c152e
